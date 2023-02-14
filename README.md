@@ -26,6 +26,10 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+<div align="center">
+    <img src="https://media.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif" alt="">
+</div>
+
 ---
 ### 🤵About me
 - 📹I create content on youtube about web development [Jupo Web](https://www.youtube.com/channel/UCcjZopI_Z7ZSl8molQOZbUA)
